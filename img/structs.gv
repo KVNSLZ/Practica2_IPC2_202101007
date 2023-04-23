@@ -1,0 +1,4 @@
+digraph structs {
+	node [fontname=Helvetica shape=none]
+	n [label=<<table></table>>]
+}
